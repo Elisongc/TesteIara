@@ -1,0 +1,15 @@
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\bin\Debug\net6.0\TesteIara.exe
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\bin\Debug\net6.0\TesteIara.deps.json
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\bin\Debug\net6.0\TesteIara.runtimeconfig.json
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\bin\Debug\net6.0\TesteIara.dll
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\bin\Debug\net6.0\TesteIara.pdb
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\obj\Debug\net6.0\TesteIara.csproj.AssemblyReference.cache
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\obj\Debug\net6.0\TesteIara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\obj\Debug\net6.0\TesteIara.AssemblyInfoInputs.cache
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\obj\Debug\net6.0\TesteIara.AssemblyInfo.cs
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\obj\Debug\net6.0\TesteIara.csproj.CoreCompileInputs.cache
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\obj\Debug\net6.0\TesteIara.dll
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\obj\Debug\net6.0\refint\TesteIara.dll
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\obj\Debug\net6.0\TesteIara.pdb
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\obj\Debug\net6.0\TesteIara.genruntimeconfig.cache
+C:\Users\08390531690\Desktop\Testes\TesteIara\TesteIara\obj\Debug\net6.0\ref\TesteIara.dll
